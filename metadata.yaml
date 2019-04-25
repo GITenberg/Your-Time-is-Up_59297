@@ -1,0 +1,25 @@
+_repo: Your-Time-is-Up_59297
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sheldon, Walter J.
+    aliases:
+    - Sheldon, Walter James
+    - Sheldon, Walt
+    birthdate: 1917
+    deathdate: 1996
+    gutenberg_agent_id: '33576'
+    url: http://www.gutenberg.org/2009/agents/33576
+description: ''
+gutenberg_issued: '2019-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Your Time is Up
+url: http://www.gutenberg.org/ebooks/59297
