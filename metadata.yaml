@@ -1,5 +1,8 @@
 _repo: Your-Time-is-Up_59297
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59297-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheldon, Walter J.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '33576'
     url: http://www.gutenberg.org/2009/agents/33576
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59297#Your-Time-is-Up
 gutenberg_issued: '2019-04-17'
 gutenberg_type: Text
 identifiers:
